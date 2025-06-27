@@ -24,6 +24,10 @@
    1 ----------- crédito
    2 ----------- débito
 
+**StatusMovimento**
+   1 ----------- Completo
+   2 ----------- Em Aberto
+
 - Classificar ambos os Arquivos em ordem crescente de CodConta
 - Gerar CadastroAtualizado a partir do Balance-line dos arquivos    ContasCorrentes e MovimentoContas
 

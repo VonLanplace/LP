@@ -5,7 +5,7 @@
 - Criar um sistema que cadastre (votação) 5 eleitores  em cada grupo de votaçoes;
 - Gravar também o cadastro eleitoral com 10 eleitores com seu número de eleitor e nome;
 - Após os cadastramentos, processar e apurar:
- 	- vencedor,2º colocado, brancos, nulos, assim como suas quantidades apuradas.
+  - vencedor,2º colocado, brancos, nulos, assim como suas quantidades apuradas.
 
 |-|Votação 1 , 2 e Apuração|-|
 |-|-|-|
